@@ -20,4 +20,13 @@
 
 ### Testing Documentation
 
+<br>
+
+[Checklists][def2]
+
+Test-Cases
+
+Bug-Reports
+
 [def]: https://drive.google.com/file/d/1R-BM5DLluDoRGpKdLFSlTwQU1_tv1AOO/view?usp=sharing
+[def2]: https://github.com/annazhark/checklists/tree/master/checklists
